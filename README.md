@@ -1,4 +1,4 @@
-# Springboot API성 서버
+# Springboot API성 Backend 서버단
 
 front단 - hwan2272/react
 
